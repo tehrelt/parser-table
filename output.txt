@@ -1,0 +1,534 @@
+
+      edeshina
+    Обкафкился по полной: 3 фейла с Apache Kafka - https://habr.com/ru/company/southbridge/blog/672918/
+
+      ph_piter
+    Scala. Профессиональное программирование. 5-е изд. Гивены - https://habr.com/ru/company/piter/blog/671356/
+
+      asvxyz
+    Как в современном мире обрабатывать ошибки в Javascript? - https://habr.com/ru/post/672888/
+
+      ru_vds
+    Приложение для чата в реальном времени с помощью Nestjs и PostgreSQL - https://habr.com/ru/company/ruvds/blog/672848/
+
+      NapoleonIT
+    Как бустануть рост из Junior в Middle ML-инженера и попасть в команду разработки ведущих ИТ-компаний - https://habr.com/ru/post/672876/
+
+      princeparadoxes
+    Аналитика в декларативном стиле с поддержкой многомодульности - https://habr.com/ru/company/cian/blog/672862/
+
+      GromovBI
+    Tableau vs FineBI. Часть I: особенности платформ и работа с данными - https://habr.com/ru/post/672864/
+
+      MaxRokatansky
+    C++20: корутины cppcoro - https://habr.com/ru/company/otus/blog/672838/
+
+      WhalekitStudio
+    Как мы избегаем бинарных апдейтов и обновляем игру «на лету» с помощью DLC - https://habr.com/ru/company/mygames/blog/672816/
+
+      1div0
+    Как мы сжимаем данные в больших проектах - https://habr.com/ru/company/vk/blog/672760/
+
+      mdlufy
+    Почему не нужно идти в айти — демотиватор - https://habr.com/ru/post/672814/
+
+      i_shutov
+    Data Science как макетная плата в enterprise - https://habr.com/ru/post/672812/
+
+      TCapS
+    In-App шардирование PostgresDB. Практическое велосипедостроение - https://habr.com/ru/company/aliexpress_russia/blog/670320/
+
+      jm_sub
+    70 ресурсов для прокачки в PHP (из опроса русскоязычного сообщества) - https://habr.com/ru/company/skyeng/blog/666626/
+
+      FanatPHP
+    Как правильно использовать mysqli - https://habr.com/ru/post/662523/
+
+      ItsPavel
+    Как мы составили Словарь больших данных для тех, кто не в теме бигдаты - https://habr.com/ru/company/itsumma/blog/672804/
+
+      siller174
+    Go, Allure и HTTP, или Как мило тестировать HTTP-сервисы на Go - https://habr.com/ru/company/ozontech/blog/672678/
+
+      DAN_SEA
+    ТОП6 аппаратов, которые так и хочется собрать… - https://habr.com/ru/company/ruvds/blog/672268/
+
+      Olga_Mokshina
+    Что делать с дрейфом данных и концепций в продакшен-системах машинного обучения - https://habr.com/ru/company/vk/blog/671896/
+
+      kot_review
+    Удалённый мониторинг 3D-принтера. Рассуждаем - https://habr.com/ru/company/first/blog/671102/
+
+      snakers4
+    Telegram Premium отправляет голосовые сообщения клиентов в сервисы Google - https://habr.com/ru/post/672782/
+
+      DOMRF_IR
+    Рациональный выбор системы управления тестированием - https://habr.com/ru/company/domrf/blog/672780/
+
+      it_union
+    Нужно больше золота: как игровые компании майнят прибыль с геймеров - https://habr.com/ru/post/672292/
+
+      Suvitruf
+    Недельный геймдев: #75 — 19 июня, 2022 - https://habr.com/ru/post/672746/
+
+      shef35316
+    Едем на солнечной энергии. Превращаем повышающий DC-DC преобразователь в солнечный контроллер. Часть 2 - https://habr.com/ru/post/672740/
+
+      nmivan
+    Давай, пока мама не видит? - https://habr.com/ru/post/672732/
+
+      tgeshka
+    Poly Keyboard: механическая сплит-клавиатура с дисплеями в каждой кнопке - https://habr.com/ru/company/selectel/blog/672150/
+
+      honyaki
+    13 лучших игр с открытым кодом на Gamedev.js Jam 2022 - https://habr.com/ru/company/skillfactory/blog/672672/
+
+      peston
+    Обучение нейросети в речном круизе или история одного мини-проекта - https://habr.com/ru/post/672712/
+
+      Lightmap
+    Искусственный интеллект в DOOM - https://habr.com/ru/company/lightmap/blog/672638/
+
+      k_tultseva
+    Ловим дзен, боремся с легаси и строим кубический мир: что было на онлайн-части конференции HolyJS 2022 Spring - https://habr.com/ru/company/jugru/blog/672340/
+
+      Alex_BBB
+    UI редактора блок-схем - https://habr.com/ru/post/672694/
+
+      itmo
+    Как работает сервис поиска уникальных специалистов для междисциплинарных проектов - https://habr.com/ru/company/spbifmo/blog/671776/
+
+      phillennium
+    JPoint 2022: что было, что будет и какие доклады уже открыты для всех - https://habr.com/ru/company/jugru/blog/672572/
+
+      selenzorn
+    Docker Swarm VS Kubernetes — как бизнес выбирает оркестраторы - https://habr.com/ru/company/selectel/blog/672666/
+
+      Smart_IT
+    Взгляд на ИТ-Нарнию: путь от джуна до Senior в финтехе - https://habr.com/ru/company/smart_it/blog/672654/
+
+      glebmachine
+    Дорогу молодым: как FrontendConf 2022 помогает начинающим спикерам и почему это важно для индустрии - https://habr.com/ru/company/oleg-bunin/blog/660685/
+
+      Alexzzz91
+    Кепка на ESP32 с спектроанализатором, BLE, svelte и работает на устройствах apple - https://habr.com/ru/post/672646/
+
+      USSCLTD
+    Обзор изменений в законодательстве за май 2022 - https://habr.com/ru/post/672622/
+
+      wtigga
+    Галлюцинация для улучшения машинного перевода - https://habr.com/ru/post/672620/
+
+      MaxRokatansky
+    Обзор книги “Beautiful C++: 30 Core Guidelines for Writing Clean, Safe and Fast Code” - https://habr.com/ru/company/otus/blog/672610/
+
+      k_orlov
+    Фишинг: монстр из глубин электронной почты - https://habr.com/ru/company/oxygendc/blog/672590/
+
+      Acid_Bl4ck
+    Декомпозиция классов: подход к разнообразию игровых систем на примере D&D и гонок - https://habr.com/ru/company/pixonic/blog/672446/
+
+      AlNaumov
+    Как быстро и эффективно масштабировать команду в 2 раза с помощью джунов. 1 часть - https://habr.com/ru/company/lenta_utkonos_tech/blog/672588/
+
+      ZeroCode999
+    Взаимодействие с alerts и permissions в ui-тестировании iOS - https://habr.com/ru/company/vivid_money/blog/672586/
+
+      DmitryTsepelev
+    Как заставить интерпретатор Ruby выполнить программу, написанную на естественном языке - https://habr.com/ru/post/669650/
+
+      devalio
+    Эй, пс, Gopher! Хочешь немного секретности? Стеганография для Маши и Вити - https://habr.com/ru/company/timeweb/blog/672128/
+
+      Igoryas
+    Пишем продвинутый планировщик с использованием React, Nest и NX. Часть 1: настройка проекта - https://habr.com/ru/company/domclick/blog/672546/
+
+      mr-pickles
+    Обучение с подкреплением: сети Deep Q - https://habr.com/ru/company/wunderfund/blog/671650/
+
+      itmo_nsslab
+    Про настройку гиперпараметров ансамблей моделей машинного обучения - https://habr.com/ru/post/672486/
+
+      Surf_Studio
+    Android 13: какие изменения нас ожидают - https://habr.com/ru/company/surfstudio/blog/672538/
+
+      klyushnichenko_ab
+    Как «Алтай-Кокс» научился экономить на вагонах миллионы рублей в год - https://habr.com/ru/company/nlmk/blog/671564/
+
+      hukenovs
+    HaGRID — огромный открытый датасет для распознавания жестов - https://habr.com/ru/company/sberdevices/blog/671614/
+
+      shaddyk
+    Как живут клиентские данные в Yota - https://habr.com/ru/company/hflabs/blog/672430/
+
+      ph_piter
+    Что такое «Разделение ответственности» в коде - https://habr.com/ru/company/piter/blog/672522/
+
+      Solar_MSS
+    Сервисная защита от сетевых угроз – исподвыподверта и не только - https://habr.com/ru/company/solarsecurity/blog/672480/
+
+      NewTechAudit
+    Метод наименьших квадратов: формулы, код и применение - https://habr.com/ru/post/672540/
+
+      cryptodeeptech
+    Создаем свой терминал в Google Colab для работ в GitHub, GDrive, NGrok и.т.д - https://habr.com/ru/post/672524/
+
+      monreve
+    Выпуск российских процессоров, как серверных, так и обычных, под угрозой. Производить их пока негде - https://habr.com/ru/company/selectel/blog/672418/
+
+      dezmol
+    Красная и синяя таблетки для повышения баc-фактора команды разработки - https://habr.com/ru/company/billing/blog/473116/
+
+      InsanusMokrassar
+    Telegram Bot на Kotlin: Введение - https://habr.com/ru/post/672488/
+
+      Kaspersky_Lab
+    Security Week 2225: Hertzbleed, новая атака на процессоры Intel и AMD - https://habr.com/ru/company/kaspersky/blog/672490/
+
+      Sovetkali
+    Подробнее про пирамиду тестирования - https://habr.com/ru/post/672484/
+
+      mitya_zhuravlev
+    Все ещё подбираете число интервью для JTBD с помощью магического шара? Тогда мы идём к вам - https://habr.com/ru/company/prequel/blog/672478/
+
+      AntonNester
+    Планирование производственных операций - https://habr.com/ru/post/672466/
+
+      kreddos
+    Слак бот на минималках ч2 - https://habr.com/ru/post/672454/
+
+      nikolayshabalin
+    Фронтенд-новости №11. JQuery живее всех живых, замена CAPTCHA, вариативные шрифты в Figma - https://habr.com/ru/company/htmlacademy/blog/672440/
+
+      averkij
+    Я уеду жить в Лейнвуд. Создаем новые слова при помощи GPT - https://habr.com/ru/post/672434/
+
+      yngvar_antonsson
+    Топ-5 провальных решений при разработке на Tarantool - https://habr.com/ru/company/vk/blog/672386/
+
+      athoremmes
+    MIT, Гарвард и Лига плюща: как я поступала в лучшие ВУЗы США - https://habr.com/ru/post/672422/
+
+      arch1baald
+    Ищем хайлайты в матчах Dota 2 на примере Collapse на Magnus в рамках The International 2021 - https://habr.com/ru/post/672420/
+
+      ru_vds
+    Как определить версию Windows? - https://habr.com/ru/company/ruvds/blog/672410/
+
+      ph_piter
+    Книга «Go: идиомы и паттерны проектирования» - https://habr.com/ru/company/piter/blog/672402/
+
+      AnastasiaDronina
+    От LiveData к Flow… - https://habr.com/ru/company/docdoc/blog/672400/
+
+      Dmitry_V_Litvinov
+    Мне снизу видно всё – почему корпорациям стоит покупать подписки на SaaS по совету сотрудников? - https://habr.com/ru/post/672398/
+
+      skillfactory_school
+    Пандемия данных. Почему в будущем медицина будет всё больше основываться на данных? - https://habr.com/ru/company/skillfactory/blog/672360/
+
+      NewTechAudit
+    На двух стульях: ASP.NET Identity и авторизация по Windows в ASP.NET MVC - https://habr.com/ru/post/672382/
+
+      kmoseenk
+    Эффективные шаблоны case-классов в Scala - https://habr.com/ru/company/otus/blog/672374/
+
+      Robert87
+    Беспилотный робот не в ROS - https://habr.com/ru/post/672368/
+
+      Solar_Compliance
+    Compliance-дайджест: что изменилось в ИБ‑законодательстве в мае - https://habr.com/ru/company/solarsecurity/blog/672366/
+
+      lebedec
+    Как придумать игровой процесс - https://habr.com/ru/post/672334/
+
+      deleburth
+    Миграция электронного документооборота Directum RX на Linux и PostgreSQL - https://habr.com/ru/company/eaeconsult/blog/670504/
+
+      Mishgen
+    Дерево комиксов на D3.js из API Marvel - https://habr.com/ru/post/672362/
+
+      dpereverza
+    Оптимизация загрузки js бандла использующего icon pack’и - https://habr.com/ru/post/672200/
+
+      SLAB_Express
+    Особенности эксплуатации морально устаревшего парка станков и оборудования в современной России - https://habr.com/ru/post/672348/
+
+      programmerguru
+    Семь раз отмерь, а SOLID все равно не про ООП. Монолог об архитектуре - https://habr.com/ru/company/ruvds/blog/672288/
+
+      Tehnologika
+    Распознавание картин без распознавания - https://habr.com/ru/post/672336/
+
+      aarmaageedoon
+    Как мы с помощью NLP облегчаем поиск людей с суицидальными наклонностями - https://habr.com/ru/post/672332/
+
+      KOTELOV
+    Как обрабатывать ошибки в React - https://habr.com/ru/post/672326/
+
+      FirstJohn
+    Хостинг размером с монетку. Самые маленькие компьютеры 2022 года - https://habr.com/ru/company/first/blog/671100/
+
+      high_fly
+    Netflix. Архитектура системы персонализации и рекомендаций - https://habr.com/ru/post/672324/
+
+      TilekSamiev
+    Препятствуют ли cloud-сервисы доминированию Oracle в сфере баз данных? - https://habr.com/ru/company/timeweb/blog/671128/
+
+      rvnikita
+    Digital-мероприятия в Москве c 20 по 26 июня - https://habr.com/ru/post/672316/
+
+      mikrizh
+    Работа с внешней параллельной шиной на отечественном DSP процессоре 1967ВН028 фирмы Миландр - https://habr.com/ru/post/672312/
+
+      alexandrshy
+    Чему можно научиться благодаря возникновению инцидентов - https://habr.com/ru/post/672192/
+
+      Vik0t
+    Интересный метод построения карт на основе движения робота - https://habr.com/ru/post/672298/
+
+      longclaps
+    Змейка здорового человека - https://habr.com/ru/post/672296/
+
+      tgeshka
+    Google Talk все: история одного из старейших сервисов Google. Живые и мертвые альтернативы от Google - https://habr.com/ru/company/selectel/blog/672152/
+
+      Kelbon
+    Holy C++ - https://habr.com/ru/post/672282/
+
+      ETman
+    Создание Data Lake и Warehouse на GCP - https://habr.com/ru/post/672280/
+
+      IceRockDev
+    Как использовать gRPC-клиент в проекте на Kotlin Multiplatform Mobile - https://habr.com/ru/post/672278/
+
+      deyen
+    Веб-приложение для видеотрансляций на Laravel - https://habr.com/ru/post/672276/
+
+      pskucherov
+    Ретро про участие в Tinkoff Invest Robot Contest - https://habr.com/ru/post/672274/
+
+      KonstantinSmith
+    Нормализация адресов, ГАР ФИАС и Адрессарий - https://habr.com/ru/post/672186/
+
+      PyLounge
+    Можно Ли Делать Игры На Python? - https://habr.com/ru/post/672270/
+
+      xni
+    Разбираемся с BeaconProxy от OpenZeppelin - https://habr.com/ru/post/672204/
+
+      nikitalogos
+    Как я Markdown парсер выбирал - https://habr.com/ru/post/672266/
+
+      alisa_K
+    Как c помощью Аналитики набрать миллионы подписчиков на Youtube - https://habr.com/ru/post/672260/
+
+      qmzik
+    Создание музыкального инструмента с помощью Web Audio API - https://habr.com/ru/post/672256/
+
+      vmihailenco
+    HTTP роутер для Go с обработкой ошибок - https://habr.com/ru/post/672250/
+
+      ProductivityInside
+    Дайджест интересных материалов для мобильного разработчика #447 (13 — 19 июня) - https://habr.com/ru/company/productivity_inside/blog/672240/
+
+      OlegSivchenko
+    Безвоздушные замки. О перспективах ЦОД на орбите и в ближнем космосе - https://habr.com/ru/post/672220/
+
+      57an
+    Single quotes black - https://habr.com/ru/post/672202/
+
+      Igor_Le
+    Postgresso #5 (42) - https://habr.com/ru/company/postgrespro/blog/667350/
+
+      Orazbek_B
+    Математическое решение задачи о матрице «змейкой» - https://habr.com/ru/post/672198/
+
+      Ekaterina_Podolina
+    Деревья и пожары: растим деревья на данных и тушим пожар риск-мониторинга - https://habr.com/ru/post/672184/
+
+      productomar
+    «Го, я создал». Учим Java и Kotlin в команде - https://habr.com/ru/post/672188/
+
+      VASExperts
+    Проанализировать потоки трафика — поможет PiRogue - https://habr.com/ru/company/vasexperts/blog/671866/
+
+      undrAlex
+    Вопросы на собеседовании к вакансии Middle Unity-разработчик + полезная информация - https://habr.com/ru/post/672168/
+
+      Prolegomenbl
+    Конференция Heisenbug 2022 Spring: было—будет - https://habr.com/ru/company/jugru/blog/672002/
+
+      WOLFRIEND
+    Делаем отзывчивый и максимально возможный размер шрифта динамического текста относительно контейнера - https://habr.com/ru/post/672148/
+
+      blognetology
+    Куда пойти, когда только выучил Python: советы начинающему специалисту - https://habr.com/ru/company/netologyru/blog/672066/
+
+      AleksanderZverev
+    Использование RTK Query вместе с Redux Toolkit [На примере Next.js + TypeScript] - https://habr.com/ru/post/672144/
+
+      Erwinmal
+    Нейросеть DALL-E 2 создала собственный язык: правда, не совсем, и совсем не? - https://habr.com/ru/company/ruvds/blog/672046/
+
+      ostinru
+    MySQL User Defined Functions - https://habr.com/ru/post/672138/
+
+      arkhiiipov
+    ChainOps или DevOps - https://habr.com/ru/post/672108/
+
+      xrinerio
+    Какой способ лучше всего подходит, чтобы начать изучать программирование? - https://habr.com/ru/post/672120/
+
+      EmMur
+    Простейшая модель броуновского движения и фракталы - https://habr.com/ru/post/672118/
+
+      KoIIIeY
+    Система озвучки для игр (с плагином для Unity) - https://habr.com/ru/post/672116/
+
+      Mixar_1
+    Обзор очков дополненной реальности Vuzix M400 - https://habr.com/ru/post/672112/
+
+      rikki_tikki
+    Неожиданная находка, которая освобождает 20 GB неиспользованного индексного пространства - https://habr.com/ru/company/otus/blog/672102/
+
+      kmoseenk
+    Основы Cypress: тестирование API - https://habr.com/ru/company/otus/blog/672098/
+
+      tatvch
+    Анализ аудиоданных (часть 3) - https://habr.com/ru/post/672094/
+
+      thenonsense
+    Интересности для жанра ARPG | Часть 2 - https://habr.com/ru/post/672050/
+
+      pavelgonzales
+    Почему именно этот язык? - https://habr.com/ru/post/672028/
+
+      Vasily-Vicktorovich
+    Ретроспектива: быть или не быть? - https://habr.com/ru/company/sravni/blog/672030/
+
+      sergeytolkachyov
+    Использование WebAssetsManager Joomla 4 и добавление собственных пресетов с помощью плагина - https://habr.com/ru/post/672020/
+
+      i_shutov
+    Сателлит «R Markdown» — что на обратной стороне? - https://habr.com/ru/post/672016/
+
+      constantine_mitin
+    Как писать код, чтобы тебя не уволили? - https://habr.com/ru/post/672012/
+
+      mvs
+    Демо Symfony конвертер валют - https://habr.com/ru/post/671956/
+
+      CSIRT
+    ТОП-3 ИБ-событий недели по версии Jet CSIRT - https://habr.com/ru/company/jetinfosystems/blog/671990/
+
+      AlexeySushkov
+    Сам себе PKI: Практика на примере OpenSSL и CA Smallstep. (Статья 2) - https://habr.com/ru/post/671730/
+
+      AlexeySushkov
+    Сам себе PKI: Теория на примере Let’s Encrypt. (Статья 1) - https://habr.com/ru/post/671728/
+
+      nanocad
+    Семья сильна, когда над ней крыша одна! Статья-аннотация о том, как проектировать деревянную кровлю в BIM - https://habr.com/ru/company/nanosoft/blog/671980/
+
+      Nikolai1974
+    Требования ГОСТ на автоматизированные системы в ИБ-проектах. Что изменилось и как это применять? - https://habr.com/ru/company/angarasecurity/blog/671882/
+
+      alexanderskulikov
+    Интерактивный учебник для подготовки к алгоритмической секции собеседования - https://habr.com/ru/post/671466/
+
+      Tott
+    Нейронная сеть для ведения боевых действий. Какая война может быть с технологически развитой страной? - https://habr.com/ru/post/671948/
+
+      Tott
+    Почему идентификация лиц невозможна — так, как этого хочет заказчик? - https://habr.com/ru/post/671940/
+
+      Caiiiycuk
+    Запускаем DOS игру в браузере - https://habr.com/ru/post/671848/
+
+      0x7o
+    Бесплатные инструменты на основе OpenAI Codex - https://habr.com/ru/post/671878/
+
+      senor_makesha
+    Как мы научили AI писать тексты для бизнеса не хуже, чем копирайтеры - https://habr.com/ru/company/sberbank/blog/671792/
+
+      cryptodeeptech
+    Одна слабая транзакция в ECDSA в блокчейне Биткоина и с помощью Lattice Attack мы получили Private Key к монетам BTC - https://habr.com/ru/post/671932/
+
+      AnnaScherer
+    Нирвана и нейробиология: как создать потребительскую ценность - https://habr.com/ru/post/671926/
+
+      Surf_Studio
+    Выход из ада зависимостей: взгляд iOS-разработчика - https://habr.com/ru/company/surfstudio/blog/671862/
+
+      pprometey
+    Модуль vs Компонент - https://habr.com/ru/post/671916/
+
+      Hikarinaka
+    Виртуальный COM-порт на STM32 или как управлять контроллером через USB не привлекая внимания санитаров - https://habr.com/ru/post/671914/
+
+      1shaman
+    Разнообразный арсенал социальной инженерии: виды атак и способы их предотвращения - https://habr.com/ru/company/first/blog/670766/
+
+      ProductivityInside
+    Инспекция кода: заводим врагов - https://habr.com/ru/company/productivity_inside/blog/671906/
+
+      golyakoff
+    Подсвечиваем проблемные зоны на коленке с SonarQube и Docker Desktop - https://habr.com/ru/company/bimeister/blog/671900/
+
+      Olga_Mokshina
+    Создание современной платформы для работы с данными с помощью Open-Source-решений - https://habr.com/ru/company/vk/blog/671642/
+
+      aio350
+    JavaScript: заметка о сканере предварительной загрузки и пропуске невидимого контента - https://habr.com/ru/company/timeweb/blog/671762/
+
+      eeenvik1
+    Vulnerability Management изнутри. Примеры, ошибки и подводные камни - https://habr.com/ru/post/671808/
+
+      pokercase651
+    Бизнес-конфиги: как мы меняем бизнес-справочники, от которых зависит работоспособность системы - https://habr.com/ru/company/psb/blog/671784/
+
+      forgotten
+    [API как продукт] Линейка сервисов API - https://habr.com/ru/post/671868/
+
+      slon4ik
+    от Тестирования к Обеспечению качества - https://habr.com/ru/post/671874/
+
+      honyaki
+    Введение в автоэнкодеры - https://habr.com/ru/company/skillfactory/blog/671864/
+
+      kalmagaev
+    CrowPi L: ноутбук на базе Raspberry Pi для обучения и проектирования электроники. Характеристики и возможности - https://habr.com/ru/company/selectel/blog/668570/
+
+      dbf
+    Интервью с создателями Organic Maps — открытых мобильных карт на основе OpenStreetMap - https://habr.com/ru/post/671860/
+
+      p0mami
+    DataVault на Greenplum с помощью DBT - https://habr.com/ru/post/671836/
+
+      ViacheslavZagriichuk
+    Начинающий программист vs Избирком СПб - https://habr.com/ru/post/671832/
+
+      v0stok86
+    Самодельный стратостат. Сезон 2022. Vostok-5 - https://habr.com/ru/post/671290/
+
+      vlakir
+    Асинхронный python без головной боли (часть 2) - https://habr.com/ru/post/671798/
+
+      EUSP
+    И пусть страна подождёт: технические работы на ЕИС - https://habr.com/ru/company/eusp/blog/671780/
+
+      neuro_diletant
+    Коллапсирующие CNN: аппроксимация, имитация и щепотка спектральной магии - https://habr.com/ru/post/671778/
+
+      AlexanderKurenev
+    Проверяем эмулятор GPCS4, или сможем ли когда-нибудь поиграть в «Bloodborne» на PC - https://habr.com/ru/company/pvs-studio/blog/671754/
+
+      EUSP
+    Астрологи объявили неделю страданий. +3 Неочевидные сложности в работе с открытыми данными о госзакупках - https://habr.com/ru/company/eusp/blog/671760/
+
+      virtual_explorer
+    ИИ может определять расу людей по рентгеновским снимкам, и ученые в шоке - https://habr.com/ru/company/first/blog/671746/
+
+      Maxsmile123
+    Алгоритм преобразования НКА в эквивалентный ДКА - https://habr.com/ru/post/671742/
